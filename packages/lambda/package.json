@@ -1,0 +1,14 @@
+{
+  "name": "@lambda-visualizer/lambda",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "make build",
+    "lint": "make lint",
+    "test": "make test",
+    "dev": "make dev",
+    "clean": "rm -rf bootstrap"
+  },
+  "files": [
+    "bootstrap"
+  ]
+}

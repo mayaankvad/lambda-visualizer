@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "rootDir": "src",
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext",
+        "target": "ESNext",
+        "removeComments": true
+    },
+    "include": [ "src" ],
+    "exclude": [ "node_modules", "dist" ]
+}
